@@ -1,0 +1,14 @@
+{
+  "name": "quiz_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "libxmljs": "^0.19.7"
+  },
+  "devDependencies": {
+    "jsdom": "^17.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
